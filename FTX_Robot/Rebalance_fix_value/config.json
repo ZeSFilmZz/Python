@@ -1,0 +1,10 @@
+{
+  "apiKey": "S48O9JvN0Y4JbIG75D6pWbfvzL_PDec3SiSkT3XI",
+  "secret": "KE4y7WdDjfssEoVYbZfa-59B-gSQt3sBiXdb7CF1",
+  "sub_account": "bot-fixed-value",
+  "account_name": "Test_Fixed_Value",
+  "pair": "FTT/USD",
+  "token_name": "FTT",
+  "qoute_currency": "USD",
+  "rebalance_value": 700
+}
