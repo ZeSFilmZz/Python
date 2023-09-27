@@ -1,0 +1,14 @@
+{
+  "apiKey": "17d7B2WosOiNehMFKRqMVaddYFrcTM3iHFW7PBde",
+  "secret": "ME7A9MgD8zEW5uYWaGiq7qbV-aJyr71hBHdScjPE",
+  "sub_account": "bot-grid",
+  "account_name": "Test_Grid",
+  "pair": "FTT/USD",
+  "token_name": "FTT",
+  "qoute_currency": "USD",
+  "up_zone": 85,
+  "low_zone": 40,
+  "capital": 991,
+  "leverage": 1,
+  "grid_size_usd": 14
+}
