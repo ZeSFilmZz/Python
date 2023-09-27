@@ -1,0 +1,10 @@
+{
+  "apiKey": "k9vFugItEIUubd28ekA2Q78UlYdGI9fB-mLJ3IHO",
+  "secret": "nMuaitv8keOpYon6VXQqAvQcN588KlJO3hsShsRP",
+  "sub_account": "bot-fixed-%",
+  "account_name": "Test_Fixed_Percent",
+  "pair": "FTT/USD",
+  "token_name": "FTT",
+  "rebalance_percentage": 0.5,
+  "min_diff_percentage" : 0.015
+}
